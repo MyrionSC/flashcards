@@ -1,6 +1,0 @@
-[
-  {
-    "Question": "When does Svelte perform it's main workfload?",
-    "Anwser": "Svelte does it's work during the compile-time, whereas other frameworks like Vue and React do their job in the browser"
-  }
-]
